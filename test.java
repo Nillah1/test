@@ -19,6 +19,8 @@ public class test {
         int len = str.length()-1;
         int i = 0;
 
+
+        
         while(i <len)
         {
             if(word.charAt(i) != word.charAt(len))
